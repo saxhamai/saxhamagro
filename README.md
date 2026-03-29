@@ -1,0 +1,25 @@
+# saxhamagro
+
+saxham-agro-website/
+│
+├── index.html
+├── about.html
+├── products.html
+├── contact.html
+│
+├── /css
+│   └── style.css
+│
+├── /js
+│   └── script.js
+│
+├── /images
+│   ├── logo.png
+│   ├── spices.jpg
+│   ├── raisins.jpg
+│   └── snacks.jpg
+│
+├── /assets
+│   └── fonts/
+│
+└── README.md
